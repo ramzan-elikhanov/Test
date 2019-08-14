@@ -1,8 +1,9 @@
-var str = require('./other')
-var $ = require('jquery')
+var str = require('./other');
+var $ = require('jquery');
 var App = function() {
-    console.log(str)
-    $('body').html(str)
-}
+    // console.log(str);
+    $('body').html(str);
+};
 
-var app = new App()
+var app = new App();
+app.get = function() {};

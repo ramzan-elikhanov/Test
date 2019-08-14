@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/ramzan-elikhanov/Test#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
-    "webpack": "^4.39.1"
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "webpack": "^4.39.2"
   }
 }
